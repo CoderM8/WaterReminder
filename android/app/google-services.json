@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496165437181",
+    "project_id": "water-reminder-c4043",
+    "storage_bucket": "water-reminder-c4043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496165437181:android:24a51d572a4a96fb4b8894",
+        "android_client_info": {
+          "package_name": "com.vocsywaterreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-i66gbHPrJO_BCwFYEmk4YuF8FJ91xKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
